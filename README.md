@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=JosiasPerJac&label=Profile%20views&color=0e75b6&style=flat" alt="JosiasPerJac" /> 
 </p>
 
-<img align="right" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWw5a214a295a2wxczR5a2wxczR5a2wxczR5a2wxczR5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlHJGHe3yAMhdQY/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdwdG0ydzRsa3VoeHN0Y2R6dmdzOW5xdG51N3RwZjhiNTE0cjNqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="350" />
+<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdwdG0ydzRsa3VoeHN0Y2R6dmdzOW5xdG51N3RwZjhiNTE0cjNqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="350" />
 
 - 🔭 I’m currently working on **iOS Projects**
 
