@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently specializing in **Foundation Models & SwiftData**
 
-- 👨‍💻 All of my projects are available at [https://josias-portfolio-teal.vercel.app](https://josias-portfolio-teal.vercel.app)
+- 👨‍💻 All of my projects are available at [https://josiasperjac.com/](https://josiasperjac.com/)
 
 - 💬 Ask me about **SwiftUI**
 
